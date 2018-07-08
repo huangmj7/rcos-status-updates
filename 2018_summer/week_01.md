@@ -20,7 +20,7 @@ Plan for next weeks:
 2. Learn about Docker and karafka, prepare for presentation, probably Scrapy -begin
 3. Prepare for testing and other issues. -waiting 
 
-Status update --week05(7.1)
+Status update --week06(7.1)
 
 Issues#4 adjust and merged.
 Preparing for websocket API
@@ -29,5 +29,17 @@ Waiting; probably Issue#7 or 8
 Plan for next week: (breaks)
 1. Prepareing scrapy 
 2. What is the next issue?
+
+Status update Week07(7.7)
+
+Break week 
+1. Learning on scrapy -- working on individual project 
+
+Plan for next week: (breaks)
+1. Preparing for presentation
+2. What is the next issue?
+
+
+ 
 
 
