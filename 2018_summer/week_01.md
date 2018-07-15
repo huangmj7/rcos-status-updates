@@ -39,7 +39,13 @@ Plan for next week: (breaks)
 1. Preparing for presentation
 2. What is the next issue?
 
+Status update --week08(7.14)
+Working on Issue #7&#8
+Preparing the presentation 
+Writing example Spiders
 
- 
+Plan for next week
+1.Presentation
+2.Issue #7&8 creating a class/file and echo the websocket (what I can think for) 
 
 
