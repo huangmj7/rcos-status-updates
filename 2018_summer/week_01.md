@@ -48,4 +48,13 @@ Plan for next week
 1.Presentation
 2.Issue #7&8 creating a class/file and echo the websocket (what I can think for) 
 
+Status update --week09(7.19)/Accelerated 
+Working on Issue #7&#8
+Finishing Spresentation 
+Finish example Spiders (unicode text display)
+
+Plan for next week
+1.Observer class (might be)
+2.Issue #7&8 creating a class/file and observer (what I can think for) 
+
 
