@@ -50,11 +50,19 @@ Plan for next week
 
 Status update --week09(7.19)/Accelerated 
 Working on Issue #7&#8
-Finishing Spresentation 
+Finishing presentation 
 Finish example Spiders (unicode text display)
 
 Plan for next week
 1.Observer class (might be)
 2.Issue #7&8 creating a class/file and observer (what I can think for) 
 
+Status update --week10(7.28)
+Working on Issue #7&#8
+Blocker: 1. unable to update message when Websocket is running
+2. unable to combine thread between kafka and websocket
+
+Plan for next week
+Working on one of the blocker
+Preparing end presentation 
 
