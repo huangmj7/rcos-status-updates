@@ -66,3 +66,13 @@ Plan for next week
 Working on one of the blocker
 Preparing end presentation 
 
+Status update --week11(8.4)
+Working on Issue #7&#8
+Blocker: 
+1. Understanding hoe Iodine pub/sub works
+2. unable to combine thread between kafka and websocket (still no ideas)
+
+Plan for next week
+Working on one of the blocker
+Preparing end presentation 
+
