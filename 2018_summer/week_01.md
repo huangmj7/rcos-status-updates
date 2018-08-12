@@ -76,3 +76,12 @@ Plan for next week
 Working on one of the blocker
 Preparing end presentation 
 
+Status update --week11(8.12)
+Working on Issue #7&#8
+Blocker: 
+1. Get message when subscibe the channal
+2. Fix issue on Fixnum Argument Error
+
+Plan for next week
+Working on final blocker
+Preparing end presentation 
