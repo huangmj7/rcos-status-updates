@@ -1,3 +1,8 @@
+Status update  --week01--03 (5.15--6.9)
+Discussed about notifications services
+Ran onlinr-survery 
+Installed required environment for YACS development
+
 Status update  --week04 (6.16)
 
 Issue#4
@@ -85,3 +90,7 @@ Blocker:
 Plan for next week
 Working on final blocker
 Preparing end presentation 
+
+Status update -- Last week(8.17)
+Add views on the server
+Finish the presentation 
